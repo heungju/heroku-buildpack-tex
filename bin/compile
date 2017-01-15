@@ -82,9 +82,9 @@ fi
 tlmgr update --self
 
 # install user-provided-packages
-if [ -f $BUILD_DIR/texlive.packages ]; then
+if [ -f $BIN_DIR/../conf/texlive.packages ]; then
     build-step "installed custom packages"
-    tlmgr install $(cat $BUILD_DIR/texlive.packages)
+    tlmgr install $(cat $BIN_DIR/../conf/texlive.packages)
 fi
 
 build-step "upgrading installed packages"
