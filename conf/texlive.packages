@@ -6,3 +6,6 @@ etoolbox
 nanumtype1
 adjustbox
 graphics
+collectbox
+xkeyval
+ifpdf
