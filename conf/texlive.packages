@@ -1,5 +1,6 @@
 cjk-ko
 cjk
+fandol
 kotex-utf
 symbol
 csquotes
@@ -9,4 +10,3 @@ adjustbox
 graphics
 collectbox
 xkeyval
-texlive-fonts-recommended
