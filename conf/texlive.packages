@@ -11,4 +11,4 @@ xkeyval
 mdframed
 oberdiek
 l3packages
-latex-graphics
+xcolor
