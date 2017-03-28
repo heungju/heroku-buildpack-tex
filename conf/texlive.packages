@@ -16,3 +16,6 @@ pgf
 l3kernel
 ms
 epstopdf
+ifxetex
+graphics-def
+ifoddpage
