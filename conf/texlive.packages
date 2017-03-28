@@ -9,6 +9,6 @@ graphics
 collectbox
 xkeyval
 mdframed
-kvoptions
-xparse
-color
+oberdiek
+l3packages
+latex-graphics
